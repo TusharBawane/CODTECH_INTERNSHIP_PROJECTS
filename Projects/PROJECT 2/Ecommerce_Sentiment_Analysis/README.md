@@ -14,6 +14,16 @@ This project aims to classify Amazon customer reviews as positive or negative us
 - __label__2 represents positive sentiment
 
 ---
+## Dataset Notice
+
+The original training and testing datasets (`train.txt` and `test.txt`) 
+are not included in this repository due to GitHub file size limitations.
+
+The project workflow, preprocessing steps, model training logic, and 
+evaluation code are fully provided and reproducible.
+
+Dataset source:
+- Kaggle: E-commerce Text Classification / Sentiment Analysis dataset
 
 ## Tools & Technologies
 - Python
@@ -54,3 +64,4 @@ This project aims to classify Amazon customer reviews as positive or negative us
 ## Conclusion
 This project demonstrates how NLP and Machine Learning techniques can be used to analyze large volumes of customer reviews.  
 The sentiment analysis model provides reliable results and can support businesses in understanding customer opinions and improving overall customer experience.
+
