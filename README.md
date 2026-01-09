@@ -7,6 +7,7 @@ The projects focus on applying data analytics concepts to real-world datasets, c
 
 ## 📁 Repository Structure
 
+
 CODTECH_INTERNSHIP_PROJECTS/
 │
 ├── PROJECT 1/
@@ -22,6 +23,7 @@ CODTECH_INTERNSHIP_PROJECTS/
 │ └── PowerBI_Sales_Dashboard
 │
 └── README.md
+
 
 
 Each project folder includes its own dataset (where applicable), code files, outputs, dashboards, and a project-specific README.
