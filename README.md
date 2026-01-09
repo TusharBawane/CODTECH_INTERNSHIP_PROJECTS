@@ -7,24 +7,23 @@ The projects focus on applying data analytics concepts to real-world datasets, c
 
 ## 📁 Repository Structure
 
-
+```
 CODTECH_INTERNSHIP_PROJECTS/
 │
 ├── PROJECT 1/
-│ └── Customer_Churn_Project
+│   └── Customer_Churn_Project/
 │
 ├── PROJECT 2/
-│ └── Ecommerce_Sentiment_Analysis
+│   └── Ecommerce_Sentiment_Analysis/
 │
 ├── PROJECT 3/
-│ └── Data_Analysis_Project
+│   └── Data_Analysis_Project/
 │
 ├── PROJECT 4/
-│ └── PowerBI_Sales_Dashboard
+│   └── PowerBI_Sales_Dashboard/
 │
 └── README.md
-
-
+```
 
 Each project folder includes its own dataset (where applicable), code files, outputs, dashboards, and a project-specific README.
 
