@@ -6,7 +6,6 @@ The projects focus on applying data analytics concepts to real-world datasets, c
 ---
 
 ## 📁 Repository Structure
-
 ```
 CODTECH_INTERNSHIP_PROJECTS/
 │
@@ -17,14 +16,13 @@ CODTECH_INTERNSHIP_PROJECTS/
 │   └── Ecommerce_Sentiment_Analysis/
 │
 ├── PROJECT 3/
-│   └── Data_Analysis_Project/
+│   └── Big_Data_Sales_Analysis_PySpark/
 │
 ├── PROJECT 4/
 │   └── PowerBI_Sales_Dashboard/
 │
 └── README.md
 ```
-
 Each project folder includes its own dataset (where applicable), code files, outputs, dashboards, and a project-specific README.
 
 ---
@@ -33,38 +31,45 @@ Each project folder includes its own dataset (where applicable), code files, out
 
 ### Project 1: Customer Churn Analysis
 - Analyzed customer data to identify key factors contributing to churn
-- Performed data preprocessing, exploratory analysis, and predictive modeling
-- Generated insights to support customer retention strategies
+- Performed data cleaning, exploratory data analysis (EDA), and feature engineering
+- Built predictive models to estimate churn probability
+- Generated insights to support customer retention and business decision-making
 
 ---
 
 ### Project 2: E-commerce Sentiment Analysis
-- Performed sentiment analysis on customer review data
-- Applied text preprocessing, NLP techniques, and machine learning models
-- Classified reviews into sentiment categories for business insights  
+- Performed sentiment analysis on large-scale Amazon customer review data
+- Applied NLP techniques including text preprocessing, tokenization, and TF-IDF vectorization
+- Built a Logistic Regression model to classify reviews as positive or negative
+- Achieved approximately **89% accuracy** with balanced precision and recall
+- Evaluated performance using confusion matrix and classification metrics
 
 **Note:** Large dataset files are excluded due to GitHub file size limitations.  
 The dataset used is publicly available and referenced within the project.
 
 ---
 
-### Project 3: Data Analysis Project
-- Conducted structured data analysis to uncover meaningful patterns
-- Focused on data cleaning, transformation, and visualization
-- Delivered insights aligned with business decision-making
+### Project 3: Big Data Sales Analysis using PySpark
+- Analyzed large-scale retail sales data using **PySpark** for distributed processing
+- Performed data ingestion, cleaning, and transformation using Spark DataFrames
+- Conducted region-wise, category-wise, and sub-category-wise sales and profit analysis
+- Identified top-performing regions and high-profit product categories
+- Derived actionable business insights to improve sales strategy and profitability
 
 ---
 
 ### Project 4: Sales Performance Dashboard (Power BI)
-- Built an interactive Power BI dashboard for sales analysis
-- Created KPIs for sales, profit, and quantity
-- Used Power Query and DAX for data transformation and measures
-- Enabled dynamic analysis through slicers and visuals
+- Designed an interactive Power BI dashboard for sales performance analysis
+- Built KPIs for total sales, profit, quantity, and regional performance
+- Used Power Query for data transformation and DAX for calculated measures
+- Enabled dynamic insights using slicers, filters, and interactive visuals
+- Provided business-ready dashboards for decision-makers
 
 ---
 
 ## 🛠 Tools & Technologies
-- Python (Pandas, NumPy, Scikit-learn, NLP libraries)
+- Python (Pandas, NumPy, Scikit-learn, PySpark, NLP libraries)
+- Apache Spark
 - Power BI
 - Power Query
 - DAX
@@ -74,13 +79,13 @@ The dataset used is publicly available and referenced within the project.
 ---
 
 ## 🎯 Key Learnings
-- End-to-end data analytics workflow
-- Handling real-world datasets and constraints
-- Applying machine learning and NLP techniques
-- Designing business-focused dashboards
-- Structuring and documenting projects professionally
+- End-to-end data analytics project lifecycle
+- Working with structured, unstructured, and large-scale datasets
+- Applying machine learning and NLP techniques for real-world problems
+- Using Big Data tools for scalable analysis
+- Designing professional dashboards and communicating insights effectively
 
 ---
 
 ## 📌 Conclusion
-This repository showcases practical data analytics work completed during the CODTECH internship, emphasizing real-world problem-solving, analytical thinking, and professional project organization.
+This repository demonstrates practical data analytics experience gained during the CODTECH internship, highlighting problem-solving skills, analytical thinking, scalable data processing, and professional project documentation.
