@@ -19,7 +19,7 @@ CODTECH_INTERNSHIP_PROJECTS/
 │   └── Big_Data_Sales_Analysis_PySpark/
 │
 ├── PROJECT 4/
-│   └── PowerBI_Sales_Dashboard/
+│   └── Sales_Performace_Bussiness Insights_Dashboard/
 │
 └── README.md
 ```
